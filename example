@@ -1,0 +1,147 @@
+print("what is your marvel name?")
+x = int(input("enter your birth month for your first name = "))
+if(x == 1):
+    print("you are natasha")
+elif(x == 2):
+    print("you are king")
+elif(x == 3):
+    print("you are barnes")
+elif(x == 4):
+    print("you are steve")
+elif(x == 5):
+    print("you are stephen")
+elif(x == 6):
+    print("you are tony")
+elif(x == 7):
+     print("you are thor")
+elif(x == 8):
+     print("you are wanda")
+elif(x == 9):
+     print("you are peter")
+elif(x == 10):
+     print("you are happy")
+elif(x == 11):
+     print("you are wade")
+elif(x == 12):
+     print("you are bruce")
+y = int(input("enter your birth date for your last name = "))
+if(y == 1):
+    print("banner")
+elif(y == 23):
+    print("strange")
+elif(y == 7):
+    print("thanos")
+elif(y == 25):
+    print("stark")
+elif(y == 2):
+    print("rogers")
+elif(y == 3):
+    print("maximoff")
+elif(y == 4):
+    print("pietro")
+elif(y == 5):
+    print("clint")
+elif(y == 6):
+    print("logan")
+elif(y == 24):
+    print("parker")
+elif(y == 8):
+    print("nebula")
+elif(y == 9):
+    print("quill")
+elif(y == 10):
+    print("vision")
+elif(y == 11):
+    print("t'chaka")
+elif(y == 12):
+    print("pepper")
+elif(y == 13):
+    print("potts")
+elif(y == 14):
+    print("morgan")
+elif(y == 15):
+    print("wong")
+elif(y == 16):
+    print("loki")
+elif(y == 17):
+    print("odinson")
+elif(y == 18):
+    print("gamora")
+elif(y == 19):
+    print("drax")
+elif(y == 20):
+    print("rocket")
+elif(y == 21):
+    print("groot")
+elif(y == 22):
+    print("bucky")
+print("are you worthy to wield the GOD OF THUNDER'S hammer?")
+z = int(input("enter 1 or 0 = "))
+if(z == 0):
+    print("you are worthy")
+elif(z == 1):
+    print("you are not worthy")
+
+for i in range(0,2):
+    if(i%2!=0):
+        pass
+    else:
+        print("you love the avengers but there is one last test to prove your loyalty!")
+x = int(input("enter your favorite number = "))
+y = 10
+j = 1
+while j<=x:
+    if(j > y):
+        print("you are not an avenger!!! you betrayed them and joined thanos")
+        break
+    print("you hate thanos!!! you are loyal to the avengers")
+    j = j + 1
+if(x > y):
+    print("you failed the test")
+elif(y > x):
+    print("you passed the test...you are an avenger!!!")
+print()
+print("     #")
+print("   #   #")
+print(" # # # # #")
+print("#         #")
+print()
+print("#         #")
+print(" #       #")
+print("  #     #")
+print("   #   #")
+print("     #")
+print()
+print("# # # #")
+print("#")
+print("# # #")
+print("#")
+print("# # # #")
+print()
+print("#    #")
+print("# #  #")
+print("#  # #")
+print("#    #")
+print()
+print("# # #")
+print("#")
+print("# # #")
+print("# # #")
+print()
+print("# # # #")
+print("#")
+print("# # #")
+print("#")
+print("# # # #")
+print()
+print("# # #")
+print("#   #")
+print("# # #")
+print("#   #")
+print("#     #")
+print()
+print("# # #")
+print("#")
+print("# # #")
+print("    #")
+print("# # #")
